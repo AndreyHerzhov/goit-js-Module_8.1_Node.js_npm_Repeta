@@ -1,0 +1,12 @@
+.container {
+    margin-left: 30px;
+}
+
+h1 {
+    color: hotpink;
+    font-family: cursive;
+  }
+
+  li{
+      font-family: 'Courier New', Courier, monospace;
+  }
